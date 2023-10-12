@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf2a91ca5968a644b889df1fa1469fe2, type: 3}
+  m_Name: RangedAttackData
+  m_EditorClassIdentifier: 
+  AttackDamage: 5
+  AttackDelay: 1
+  MoveSpeed: 1
+  Prefab: {fileID: 8251389142704722045, guid: 6775910404c66264b8317b9e1c55edde, type: 3}
+  ProjectilePerShoot: 3
+  ShootRange: 5
+  ProjectileSpeed: 5
